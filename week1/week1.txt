@@ -1,0 +1,2 @@
+First week was our onboarding week and in this week we talked about Projects and paths,Learned Git and github.
+Made our repository in github named as Bytewise-Fellowship.
