@@ -1,1 +1,0 @@
-in week7 we had leaned about advance ui ,how we can make our app looks beautiful .I had used slivers(custom scroll view) 
