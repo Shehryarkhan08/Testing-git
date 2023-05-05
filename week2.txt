@@ -1,3 +1,0 @@
-In our 2nd week we installed Flutter/Dart/Visual Studio Code ,
-learned basics of dart programming language which include various topics espacilly OOP concepts.
-We made our 1st app of Flutter (generating random values).  
