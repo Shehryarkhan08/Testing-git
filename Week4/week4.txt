@@ -1,0 +1,1 @@
+in week4 we had learned about user interactivity ,how user can interract with the ui as i had used gestures detecters as user interraction to interact with the ui

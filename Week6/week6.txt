@@ -1,0 +1,1 @@
+in week 6 we had learned about animation how we can add implicit and explicit animations(buildin and custom animation in our flutter application
